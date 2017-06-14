@@ -1,7 +1,5 @@
 ## Welcome to kitchen climbing obsession
 
-This is [Google](https://www.google.com).
-
 ![Image](https://s-media-cache-ak0.pinimg.com/736x/a6/47/9f/a6479f6501d549009e5d859a18fda108.jpg)
 
 ### Markdown
