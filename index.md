@@ -1,6 +1,6 @@
 ## Welcome to kitchen climbing obsession
 
-![Image](http://imgur.com/a/AHfSQ)
+![Image](http://i.imgur.com/mW3jFQ9.jpg)
 
 This is what happens when your manager let's you _work_ _from_ _home_.
 
