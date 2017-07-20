@@ -4,20 +4,18 @@
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is what happens when your manager let's you _work_ _from_ _home_.
 
 ```markdown
-Syntax highlighted code block
+Connecting...
 
-# Header 1
-## Header 2
-### Header 3
+# How to climb your kitchen
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+1. Clear the surface
+2. Put your shoes on
+3. Pad the floor with pillows
+4. Chalk up
+5. Climb hard, hold tight!
 
 **Bold** and _Italic_ and `Code` text
 
