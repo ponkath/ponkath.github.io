@@ -2,12 +2,11 @@
 
 ![Image](https://s-media-cache-ak0.pinimg.com/736x/a6/47/9f/a6479f6501d549009e5d859a18fda108.jpg)
 
-### Markdown
-
 This is what happens when your manager let's you _work_ _from_ _home_.
 
 ```markdown
 Connecting...
+```
 
 # How to climb your kitchen
 
@@ -20,14 +19,3 @@ Connecting...
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ponkath/ponkath.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
