@@ -16,6 +16,9 @@ Connecting...
 4. Chalk up
 5. Climb hard, hold tight!
 
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://youtu.be/Gk052uMRAYA)
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
