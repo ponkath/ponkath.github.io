@@ -18,7 +18,8 @@ Connecting...
 
 [![Watch the video]](https://youtu.be/Gk052uMRAYA)
 
-**Bold** and _Italic_ and `Code` text
+# Challenge yourself and improve your stamina
 
-[Link](url) and ![Image](src)
-
+1. Pull yourself up sloper-style
+2. Increase arm stretch
+3. Place little obstacles on the surface and practise precision climbing
