@@ -17,3 +17,9 @@
 1. Pull yourself up sloper-style
 2. Increase arm stretch
 3. Place little obstacles on the surface and practise precision climbing
+
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+<details>
