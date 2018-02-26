@@ -1,8 +1,8 @@
-## Welcome to kitchen climbing obsession
+# Welcome to kitchen climbing obsession
 
 ![Image](http://i.imgur.com/mW3jFQ9.jpg)
 
-# How to climb your kitchen
+## How to climb your kitchen
 
 1. Clear the surface
 2. Put your shoes on
@@ -12,7 +12,7 @@
 
 [![Watch the video]](https://youtu.be/Gk052uMRAYA)
 
-# Challenge yourself and improve your stamina
+## Challenge yourself and improve your stamina
 
 1. Pull yourself up sloper-style
 2. Increase arm stretch
