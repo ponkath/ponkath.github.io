@@ -2,12 +2,6 @@
 
 ![Image](http://i.imgur.com/mW3jFQ9.jpg)
 
-This is what happens when your manager let's you _work_ _from_ _home_.
-
-```markdown
-Connecting...
-```
-
 # How to climb your kitchen
 
 1. Clear the surface
