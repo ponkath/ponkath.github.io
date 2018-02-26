@@ -10,7 +10,7 @@
 4. Chalk up
 5. Climb hard, hold tight!
 
-[![Watch the video]](https://youtu.be/Gk052uMRAYA)
+[![Watch me!](http://img.youtube.com/vi/Gk052uMRAYA/0.jpg)](http://www.youtube.com/watch?v=Gk052uMRAYA)
 
 ## Challenge yourself and improve your stamina
 
